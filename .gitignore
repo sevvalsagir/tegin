@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pth
+.ipynb_checkpoints/
+models/
+.env
+*.h5
+*.pth
